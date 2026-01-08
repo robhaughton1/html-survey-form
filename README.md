@@ -18,5 +18,4 @@ This project is a simple survey form built using HTML and CSS. It was created as
 - HTML5
 - CSS3
 
-## How to View
-Open `index.html` in any web browser to view the survey form.
+
